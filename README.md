@@ -9,3 +9,6 @@ This Python program is a Pokemon Data Explorer that allows users to search for P
 ## How to Run
 1. Make sure you have Python installed on your machine.
 2. Clone the repository to your local machine:
+
+
+
